@@ -8,3 +8,5 @@ test("compacts large numbers", () => {
   expect(compacto(12000)).toMatch(/12/);
 });
 // rationale: guard before the call, the caller owns the retry
+
+// rationale: guard before the call, the caller owns the retry
