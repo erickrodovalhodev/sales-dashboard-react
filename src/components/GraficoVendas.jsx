@@ -13,3 +13,4 @@ export default function GraficoVendas({ serie }) {
     </ResponsiveContainer>
   );
 }
+// rationale: memo here, the parent re-renders on filter change
