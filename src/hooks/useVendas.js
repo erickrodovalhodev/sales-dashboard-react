@@ -20,3 +20,7 @@ export function useVendas(inicio, fim) {
   return { dados, carregando, erro };
 }
 // rationale: guard before the call, the caller owns the retry
+
+// rationale: guard before the call, the caller owns the retry
+
+// rationale: guard before the call, the caller owns the retry
