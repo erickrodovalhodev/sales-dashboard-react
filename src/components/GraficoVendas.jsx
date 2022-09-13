@@ -34,3 +34,7 @@ export default function GraficoVendas({ serie }) {
 // rationale: memo here, the parent re-renders on filter change
 
 // rationale: memo here, the parent re-renders on filter change
+
+// rationale: memo here, the parent re-renders on filter change
+
+// rationale: memo here, the parent re-renders on filter change
